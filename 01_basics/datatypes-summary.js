@@ -50,3 +50,19 @@ console.log(typeof anotherId);
      //    Arrays  =>  object
     //   Function  =>  function
      //  Object  =>  object
+
+
+//------------------Stack and Heap Memory In Javascript-------------------
+
+// Two types pf memory
+
+//Stack
+//primitive data type used stack memory 
+// jo bhi aapne variable declare kra h uska ek copy milta hai
+
+
+//Heap
+// non-primitive data type used heap memory
+// eske andar jakr milta h reference 
+
+//-------------------//
