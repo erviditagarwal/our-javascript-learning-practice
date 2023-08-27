@@ -1,4 +1,4 @@
-// Dates
+// Dates // Is A Object
 
 let myDate = new Date()
 // console.log(myDate.toString());
