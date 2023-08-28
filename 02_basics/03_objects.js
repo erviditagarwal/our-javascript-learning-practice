@@ -6,7 +6,7 @@
 const mySym = Symbol("key1")
 
 
-const JsUser = {
+const JsUser = {            // This Is a object literal
     name: "Vidit",
     "full name": "Vidit Agarwal",
     [mySym]: "mykey1",
