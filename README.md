@@ -1,2 +1,2 @@
-# our-javascript-learning-practice
-Code Respo FOr Javascript Series
+# Our Javascript learning Practice
+Code Respo For Javascript Series
