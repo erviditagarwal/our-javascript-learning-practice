@@ -43,11 +43,11 @@ const debitCard = true
 const loggedInFromGoogle = false
 const loggedInFromEmail = true
 
-if (userLoggedIn && debitCard && 2==3) {
+if (userLoggedIn && debitCard && 2==3) {    // All True Compulsary
     console.log("Allow to buy course");
 }
 
-if (loggedInFromGoogle || loggedInFromEmail) {
+if (loggedInFromGoogle || loggedInFromEmail) {   // One True Compulsary
     console.log("User logged in");
 }
 
